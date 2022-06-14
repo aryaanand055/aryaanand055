@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryaanand055
 - 👀 I’m interested in Learning new things...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Web Development
 - 📫 Reach me at aryaanand053@gmail.com
 
 <!---
