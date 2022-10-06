@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Arya A from INDIA..
+- 👋 Hi, I’m Arya A...
 - 👀 I’m interested in Learning new things...
 - 📚 My skills include Front-End Web Development
 - 🏀I enjoy playing Basketball, Tennis, Table Tennis and any other sport...
-- 🌱 I’m currently learning Complete Web Development
+- 🌱 I’m currently learning Back End Web Development
 - 📫 Reach me at aryaanand053@gmail.com
 
 <!---
