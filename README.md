@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Arya A...
 - 👀 I’m interested in Learning new things...
-- 📚 My skills include Front-End Web Development, Back end devolopment, sql, python, javascript, html, css, django
+- 📚 My skills include Full-Stack Web Development, Database Management such as MySQL and MongoDB, Programming languages like Python, Javascript, and C
 - 🏀I enjoy playing Basketball, Tennis, Table Tennis and any other sport...
-- 🌱 I’m currently learning Back End Web Development
+- 🌱 I’m currently learning Neural Networks
 - 📫 Reach me at aryaanand053@gmail.com
 
 <!---
