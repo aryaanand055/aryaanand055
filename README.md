@@ -1,11 +1,36 @@
-- 👋 Hi, I’m Arya A...
-- 👀 I’m interested in Learning new things...
-- 📚 My skills include Full-Stack Web Development, Database Management such as MySQL and MongoDB, Programming languages like Python, Javascript, and C
-- 🏀I enjoy playing Basketball, Tennis, Table Tennis and any other sport...
-- 🌱 I’m currently learning Neural Networks
-- 📫 Reach me at aryaanand053@gmail.com
+<h1 align="center">Hi, I'm Arya Anand 👋</h1>
 
-<!---
-aryaanand055/aryaanand055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>Sports Enthusiast | Software Creator | Open to Collaboration</b>
+</p>
+
+---
+
+## About Me
+
+- 👨‍💻 Building practical software for real-world needs
+- 🏋️ Sporty person who values sports and fitness
+- 🤝 Open to collaborating on interesting projects
+- 💡 Always looking to solve meaningful problems
+
+---
+
+## 🛠️ Featured Projects
+
+| Project | Description |
+| ------- | ----------- |
+| **E-Commerce Website** | Full-stack platform for online retail with user authentication, product management, and a minimilistic UI. |
+| **Late Attendance Tracking** | Website for monitoring and reporting late arrivals with advanced analytics, designed for workplaces or institutions. |
+| **Zivon Fitness Studio App** | Custom solution for my fitness studio, includes client management, subscription management, progress tracking, and more. |
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [aryaanand053@gmail.com](mailto:aryaanand053@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaanand055&show_icons=true&theme=tokyonight" alt="Arya's GitHub stats" />
+</p>
