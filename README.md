@@ -30,9 +30,15 @@
 - 📧 Email: [aryaanand053@gmail.com](mailto:aryaanand053@gmail.com)
 
 ---
+<details>
+  <summary>💬 Random Quote from some dev</summary>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+</details>
+<details>
+  <summary>💬 Profile Stats</summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryaanand055&show_icons=true&theme=tokyonight" alt="Arya's GitHub stats" />
 </p>
+</details>
