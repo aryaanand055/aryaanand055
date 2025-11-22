@@ -31,6 +31,8 @@
 
 ---
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryaanand055&show_icons=true&theme=tokyonight" alt="Arya's GitHub stats" />
 </p>
