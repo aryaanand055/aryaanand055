@@ -25,18 +25,19 @@
 
 | Project | Description |
 | ------- | ----------- |
-| **[E-Commerce Website](https://github.com/aryaanand055/CS-Project-Final)** | Full-stack platform for online retail with user authentication, product management, and a minimalistic UI. |
-| **[Late Attendance Tracking](https://github.com/aryaanand055/Real-Time-Management)** | Website for monitoring and reporting late arrivals with advanced analytics, designed for workplaces or institutions. |
-| **[Zivon Fitness Studio App](https://github.com/aryaanand055/Zivon-Software)** | Custom solution for my fitness studio, includes client management, subscription management, progress tracking, and more. |
-| **[ACC/BCC Traffic Simulation](https://github.com/aryaanand055/Dynamic-Integration-of-Bilateral-and-Adaptive-Cruise-Control)** | Python-based traffic simulation, modeling vehicle behavior using Adaptive & Bilateral Cruise Control, including energy analysis and visualization. |
+| **[Yuktaha Website](https://github.com/aryaanand055/Yuktaha-26)** | A web platform designed to manage every aspect of a college technical & cultural festival |
 | **[Faculty Attendance System](https://github.com/aryaanand055/FacultyAttendance)** | A React-based attendance solution featuring live logs from the essl device, department summaries, and individual attendance analytics, built for complete faculty attendance management. |
+| **[ACC/BCC Traffic Simulation](https://github.com/aryaanand055/Dynamic-Integration-of-Bilateral-and-Adaptive-Cruise-Control)** | Python-based traffic simulation, modeling vehicle behavior using Adaptive & Bilateral Cruise Control, including energy analysis and visualization. |
+| **[Zivon Fitness Studio App](https://github.com/aryaanand055/Zivon-Software)** | Custom solution for my fitness studio, includes client management, subscription management, progress tracking, and more. |
+| **[Late Attendance Tracking](https://github.com/aryaanand055/Real-Time-Management)** | Website for monitoring and reporting late arrivals with advanced analytics, designed for workplaces or institutions. |
 
 ---
 
 
 ## 📬 Contact Me
 
-- 📧 Email: [aryaanand053@gmail.com](mailto:aryaanand053@gmail.com)
+- Email: [aryaanand053@gmail.com](mailto:aryaanand053@gmail.com)
+- LinkedIn:  [ Arya Anand](https://in.linkedin.com/in/arya-anand-593a65218)
 
 ---
 <details>
