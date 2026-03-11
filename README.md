@@ -26,7 +26,7 @@
 | Project | Description |
 | ------- | ----------- |
 | **[Yuktaha Website](https://github.com/aryaanand055/Yuktaha-26)** | A web platform designed to manage every aspect of a college technical & cultural festival |
-| **[Faculty Attendance System](https://github.com/aryaanand055/FacultyAttendance)** | A React-based attendance solution featuring live logs from the essl device, department summaries, and individual attendance analytics, built for complete faculty attendance management. |
+| **[Faculty Attendance System](https://github.com/aryaanand055/Biometric-Attendance)** | A React-based attendance solution featuring live logs from the essl device, department summaries, and individual attendance analytics, built for complete faculty attendance management. |
 | **[ACC/BCC Traffic Simulation](https://github.com/aryaanand055/Dynamic-Integration-of-Bilateral-and-Adaptive-Cruise-Control)** | Python-based traffic simulation, modeling vehicle behavior using Adaptive & Bilateral Cruise Control, including energy analysis and visualization. |
 | **[Zivon Fitness Studio App](https://github.com/aryaanand055/Zivon-Software)** | Custom solution for my fitness studio, includes client management, subscription management, progress tracking, and more. |
 | **[Late Attendance Tracking](https://github.com/aryaanand055/Real-Time-Management)** | Website for monitoring and reporting late arrivals with advanced analytics, designed for workplaces or institutions. |
